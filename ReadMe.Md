@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">Experienced Backend Software Engineer with a strong focus on GoLang and Java. Proven track record in developing high-performance backend systems, optimizing DB queries, and ensuring the continuous availability of critical APIs. Skilled in API development, Web development, SQL/NoSQL databases, CI/CD, Salesforce app development (APEX/LWC).</h5>
+<h5 align="left">Backend Software Engineer with a strong focus on GoLang and Java. Most of by backend experience is in developing high-performance backend systems, optimizing DB queries, and ensuring the continuous availability of critical APIs. Skills that I continuously keep improving are API development, Web development, SQL/NoSQL databases, CI/CD, Salesforce app development (APEX/LWC).</h5>
 
 ###
 
